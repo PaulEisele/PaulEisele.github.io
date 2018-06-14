@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Paul And All
 header-img: img/home-bg.png
 email: paulheisele@gmail.com
 copyright_name: PaulEisele
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Bytes and bits in my life. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  PaulEisele
