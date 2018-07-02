@@ -1,0 +1,23 @@
+---
+layout: post
+title:      "10,000 Hours"
+date:       2018-07-02 12:30:15 +0000
+permalink:  10_000_hours
+---
+
+ 
+ "The greats weren't great because at birth they could paint, the greats were great because they paint a lot." - Macklemore 
+ 
+What Macklemore is referring to in his song '10,000 Hours' is the concept put forward by the writer Malcolm Gladwell that "an extraordinarily consistent answer in an incredible number of fields ... you need to have practiced, to have apprenticed, for 10,000 hours before you get good". 
+
+I've been coding for almost a year now, and my back-of-the-envelope math is that I've spent about 1500 hours so far in the 
+
+Learning a new language feels like learning from scratch all over again- the parts of speech, the why behind each function, and of course, the syntax. 
+
+Syntax is defined as, "the arrangement of words and phrases to create well-formed sentences in a language" (https://www.google.com/search?q=Dictionary#dobs=syntax). When you are learning to code syntax errors can be hard to debug unless your ide provides some guidance of what line of code the error exists. Everything can look correct but you are missing an 'end' line somewhere. Keeping your code well formatted makes a huge difference where lining up the 'end' lines to make sure you ended a loop or the 'def'.  
+
+When learning more than one language, it can be challenging to keep the differences in syntax separate based on the language. Some keywords are quite straightforward; printf(), puts, or std::cout <<, while other things like sorting and iterating through an array to find something can be more challenging to remember the exact format of the syntax.
+
+One measurement of being fluent in a programming language seems to be when you can change from one language without hesitation and that comes with lots of practice. The number of hours that it takes to master a language (and the syntax) will vary from each individual but it is safe to assume that it will take quite some time. 
+
+(Hours: 1500/10000)
