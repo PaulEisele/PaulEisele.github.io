@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Blank Page and a Recepie for Sucess"
-date:       2018-07-30 02:51:22 +0000
+date:       2018-07-29 22:51:23 -0400
 permalink:  the_blank_page_and_a_recepie_for_sucess
 ---
 
